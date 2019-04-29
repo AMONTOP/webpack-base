@@ -1,0 +1,6 @@
+html, body{
+    background-color: greenyellow;
+}
+div{width: 200px;height: 200px;display: inline-block;background-size: cover}
+.box1{background: url("../img/img01.png");}
+.box2{background: url("../img/img02.png");}
